@@ -1,0 +1,15 @@
+body
+{
+    background-color: #a8f0df;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+}
+form
+{
+    left: 200px;
+}
+div
+{
+    border-left: 200px;
+}
